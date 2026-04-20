@@ -3,7 +3,7 @@
 Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_blank"}
 
  **Library Name** | **Data Type** | **Accessible Data Sources** | **Tags** 
----|---|---|---
+:---:|:---:|:---:|:---:
  [altair][1] | Vector |  | visualization 
  [ArcPy][2] | Vector & Raster | ArcGIS | ArcGIS 
  [basemap][3] | Vector & Raster |  | projection 
@@ -68,7 +68,7 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
  [RSGISLib][62] | Raster |  | remote sensing 
  [RTree][63] | Vector |  | Spatial indexing 
  [scikit][64] | Raster |  | image 
- [sentinelhub][65] | Raster | sentinel landsat modis |  
+ [sentinelhub][65] | Raster | sentinel landsat modis | satellite imagery 
  [Shapely][66] | Vector |  |  
  [urbansim][67] | Vector |  | statistical models 
  [verde][68] | Raster |  | gridding 
@@ -94,7 +94,37 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
  [Osrm-py][88] | Vector |  | routing 
  [pylode][89] | Vector |  | ontology 
  [pytdml][90] | Vector & Raster |  | AI, training, learning 
- [esridump][91] | Vector |  | shp, geojson, esri 
+ [valhalla][91] | Vector |  | Routing 
+ [Segment-geospatial][92] | Raster |  | machine learning 
+ [pyOGRio][93] | Vector |  | Data Conversion 
+ [Xarray-geospatial][94] | Raster |  | raster processing 
+ [topojson][95] | Vector |  | Data Conversion 
+ [anymap][96] | Vector & Raster |  | visualization 
+ [geoai][97] | Raster |  | Artificial Intelligence 
+ [Gespatial-ml][98] | Raster |  | machine learning 
+ [HyperCoast][99] | Raster |  | visualization 
+ [OpenBuildings][100] | Vector | Google’s Open Buildings | Data Access 
+ [MapLibre for Python][101] | Vector |  | visualization 
+ [pybabylonjs][102] | Vector & Raster |  | visualization 
+ [py3dtiles][103] | Vector |  | 3DTiles 
+ [Geoparquert-io][104] | Vector |  | Data Conversion 
+ [TorchGeo][105] | Raster |  | machine learning 
+ [GeoHealthCheck][106] | Vector & Raster |  | Web Services 
+ [Mdal-python][107] | Vector |  | Mesh Data Manipulation 
+ [mappyfile][108] | Vecrtor & Raster |  | visualization 
+ [opendatacube][109] | Raster |  | satellite imagery 
+ [pygeometa][110] | Vector & Raster |  | Metadata 
+ [rasterframes][111] | Raster |  | raster processing 
+ [GeoDeep][112] | Raster |  | machine learning 
+ [Apache Sedona][113] | Vector & Raster |  | Bigdata 
+ [GeoTessera][114] | Raster | Sentinel | satellite imagery 
+ [pystac][115] | Vector |  | Web Services 
+ [rioxarray][116] | Raster |  | raster processing 
+ [TiTiler][117] | Vector & Raster |  | Tiling 
+ [Rio-cogeo][118] | Raster |  | raster processing 
+ [Odc-geo][119] | Vector & Raster |  | Data Manipulation 
+ [Dask-geopandas][120] | Vector |  | Data Manipulation 
+
 
 [1]: https://altair-viz.github.io/index.html
 [2]: https://pro.arcgis.com/en/pro-app/latest/arcpy/functions/alphabetical-list-of-arcpy-functions.htm
@@ -186,5 +216,34 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
 [88]: https://github.com/gojuno/osrm-py
 [89]: https://pypi.org/project/pylode/
 [90]: https://github.com/TrainingDML/pytdml
-[91]: https://github.com/openaddresses/pyesridump
+[91]: https://github.com/valhalla/valhalla
+[92]: https://samgeo.gishub.org/
+[93]: https://pyogrio.readthedocs.io/en/latest/
+[94]: https://xarray-spatial.readthedocs.io/en/stable/
+[95]: https://mattijn.github.io/topojson/
+[96]: https://github.com/opengeos/anymap
+[97]: https://opengeoai.org/
+[98]: https://ml.gishub.org/
+[99]: https://hypercoast.org/
+[100]: https://opengeos.org/open-buildings/
+[101]: https://eoda-dev.github.io/py-maplibregl/api/map/
+[102]: https://github.com/TileDB-Inc/TileDB-PyBabylonJS
+[103]: https://py3dtiles.org/
+[104]: https://cloudnativegeo.org/blog/2026/03/introducing-geoparquet-io
+[105]: https://torchgeo.readthedocs.io/en/stable/
+[106]: https://docs.geohealthcheck.org/en/latest/
+[107]: https://www.mdal.xyz/api/python_api.html?highlight=python
+[108]: https://mappyfile.readthedocs.io/en/latest/
+[109]: https://www.opendatacube.org/
+[110]: https://geopython.github.io/pygeometa/
+[111]: https://rasterframes.io/index.html
+[112]: https://github.com/uav4geo/GeoDeep
+[113]: https://sedona.apache.org/latest/
+[114]: https://geotessera.readthedocs.io/en/latest/
+[115]: https://pystac-client.readthedocs.io/en/stable/
+[116]: https://corteva.github.io/rioxarray/html/index.html
+[117]: https://developmentseed.org/titiler/
+[118]: https://cogeotiff.github.io/rio-cogeo/
+[119]: https://odc-geo.readthedocs.io/en/latest/
+[120]: https://dask-geopandas.readthedocs.io/en/stable/index.html
 

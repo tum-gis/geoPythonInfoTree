@@ -1,7 +1,36 @@
 site_name: geoPythonInfoTree
+repo_url: "https://github.com/tum-gis/geoPythonInfoTree"
 site_url: https://tum-gis.github.io/geoPythonInfoTree
+nav:
+- Home : 'index.md'
+- 'Geospatial Libraries' : 'geospatial_libraries.md'
+- 'Books' : 'python_books.md'
+- 'Online Resources' : 'python_online_resources.md'
+- 'Editors / IDEs' : 'python_editors.md'
+- 'Interpreters / Implementations' : 'python_interpreters.md'
+- 'SDKs (or APIs)' : 'python_sdks.md'
+- 'Pyhthon GUI Libraries' : 'python_gui_libraries.md'
 theme:
     name: material
+    logo: ./images/logo.png
+    favicon: ./images/favicon.png
+    palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: darkblue
+      accent: cyan
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: orange
+      accent: cyan
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
@@ -9,13 +38,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - attr_list
-nav:
- - Home : 'index.md'
- - Tables : 
-   - 'Geospatial Libraries' : 'geospatial_libraries.md'
-   - 'Books' : 'python_books.md'
-   - 'Online Resources' : 'python_online_resources.md'
-   - 'Editors / IDEs' : 'python_editors.md'
-   - 'Interpreters / Implementations' : 'python_interpreters.md'
-   - 'SDKs (or APIs)' : 'python_sdks.md'
-   - 'Pyhthon GUI Libraries' : 'python_gui_libraries.md'
+  - tables
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
