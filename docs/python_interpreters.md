@@ -2,22 +2,26 @@
 
 Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_blank"}
 
-| **Interpreter / Implementation** | **Related Language** |
-|:---:|:---:|
-| [Cython][1] | C |
-| [Iron Python][2] | .Net |
-| [Jython][3] | Java |
-| [pypy][4] | C |
-| [pythonNet][5] | .Net CLR |
-| [Stackless Python][6] | C |
-| [PyJS][7] | JavaScript |
-| [Nuitka][8] | C |
-| [Codon][9] | C |
-| [Brython][10] | HTML5 |
-| [Skulpt][11] | HTML5 |
-| [Shed Skin][12] | C++ |
-| [Active State][13] |  |
-| [Transcrypt][14] | JavaScript |
+ **Interpreter / Implementation** | **Related Language** 
+:---:|:---:
+ [Cython][1] | C 
+ [Iron Python][2] | .Net 
+ [Jython][3] | Java 
+ [pypy][4] | C 
+ [pythonNet][5] | .Net CLR 
+ [Stackless Python][6] | C 
+ [PyJS][7] | JavaScript 
+ [Nuitka][8] | C 
+ [Codon][9] | C 
+ [Brython][10] | HTML5 
+ [Skulpt][11] | HTML5 
+ [Shed Skin][12] | C++ 
+ [Active State][13] |  
+ [Transcrypt][14] | JavaScript 
+ [Pyodide][15] | WebAssembly 
+ [MicroPython][16] | C 
+ [RustPython][17] | Rust, WebAssembly 
+ [GraalPython][18] | Java 
 
 [1]: https://cython.org/
 [2]: https://ironpython.net/
@@ -33,3 +37,7 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
 [12]: https://shedskin.github.io/
 [13]: https://www.activestate.com/products/python/
 [14]: https://www.transcrypt.org/
+[15]: https://pyodide.org/en/stable/
+[16]: https://micropython.org/
+[17]: https://rustpython.github.io/
+[18]: https://www.graalvm.org/python/

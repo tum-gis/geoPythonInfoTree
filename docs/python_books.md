@@ -3,7 +3,7 @@
 Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_blank"}
 
  **Title** | **Writer Editor** | **Language** 
----|---|---
+:---:|:---:|:---:
  [Einführung in Python 3][1] | Bernd Klein | DE 
  [Python – der Grundkurs][2] | Michael Kofler | DE 
  [Learning Python: Powerful Object-Oriented Programming][3] | Mark Lutz | EN 
@@ -21,6 +21,10 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
  [Learn Python the Hardway][15] | Zed A. Shaw | EN 
  [Get Programming: Learn to code with Python][16] | Ana Bell | EN 
  [Fluent Python][17] | Luciano Ramalho | EN 
+ [GeoAI in Python][18] | Qiusheng Wu | EN 
+ [Python Crash Course][19] | Eric Matthes | EN 
+ [Head First Python][20] | Paul Barry | EN 
+
 
 [1]: https://www.hanser-kundencenter.de/en/detail/index/sArticle/10355
 [2]: https://www.rheinwerk-verlag.de/python-der-grundkurs/
@@ -39,3 +43,6 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
 [15]: https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914
 [16]: https://www.amazon.com/Get-Programming-Learn-code-Python/dp/1617293784
 [17]: https://www.oreilly.com/library/view/fluent-python/9781491946237/
+[18]: https://www.amazon.com/GeoAI-Python-Practical-Open-Source-Geospatial/dp/B0GTVFY3PQ
+[19]: https://www.amazon.de/Python-Crash-Course-Eric-Matthes/dp/1718502702
+[20]: https://www.amazon.de/Head-First-Python-Brain-friendly/dp/1492051292

@@ -1,8 +1,12 @@
 # Welcome to geoPythonInfoTree
 
+A list of Python tools, libraries, and resources categorized particularly for geospatial applications.
+
+![Tree of Knowledge](images/tree_of_knowledge.jpg)
+
 This repo is an informative tool to display and store brief explanations for geospatial python libraries and essential tools of Python.
 
-## Feedback 
+## Feedback
 Please feel free to inform me about the broken links, outdated libraries or new sources which appear on the GeoPythonTree repository. -Murat Kendir- 
 [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_blank"}
 

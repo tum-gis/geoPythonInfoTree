@@ -3,7 +3,7 @@
 Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_blank"}
 
  **SDK/API Name** | **Category** 
----|---
+:---:|:---:
  [AWS (Amazon)][1] | Cloud Computing 
  [Dropbox][2] | Cloud Storage 
  [Facebook Business][3] | Social Media 
@@ -26,6 +26,12 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
  [GraphHopper][20] | Routing, Geocoding 
  [OpenRouteService-py][21] | Routing 
  [OpenTripPlanner][22] | Routing 
+ [Langchain][23] | LLM Orchestration 
+ [Ray][24] | Machine Learning 
+ [OpenTelemetry][25] | Metrics 
+ [Discord API][26] | Social Media 
+
+
 
 # Publicly Available Web APIs (not only for Python)
  [Public APIs List Repository][23]
@@ -52,4 +58,7 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
 [20]: https://docs.graphhopper.com/
 [21]: https://github.com/GIScience/openrouteservice-py
 [22]: https://docs.opentripplanner.org/en/v1.5.0/Scripting/#api
-[23]: https://github.com/public-apis/public-apis
+[23]: https://reference.langchain.com/python/langchain/overview
+[24]: https://docs.ray.io/en/latest/index.html
+[25]: https://opentelemetry.io/docs/languages/python/
+[26]: https://discordpy.readthedocs.io/en/stable/

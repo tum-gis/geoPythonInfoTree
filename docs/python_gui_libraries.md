@@ -16,6 +16,11 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
 | [PyGUI][10] |
 | [Flexx][11] |
 | [Dabo][12] |
+| [Streamlit][13] |
+| [Flet][14] |
+| [textual][15] |
+
+
 
 
 [1]: https://docs.python.org/3/library/tkinter.html
@@ -30,3 +35,6 @@ Feedback Form: [Feedback Form](https://forms.gle/frtqUK32Lv68Uiwr6){:target="_bl
 [10]: https://www.csse.canterbury.ac.nz/greg.ewing/python_gui/
 [11]: https://flexx.readthedocs.io/en/latest/
 [12]: https://dabodev.com/
+[13]: https://streamlit.io/
+[14]: https://flet.dev/
+[15]: https://textual.textualize.io/
