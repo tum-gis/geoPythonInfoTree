@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tum-gis.github.io/geoPythonInfoTree/</loc>
-         <lastmod>2024-11-19</lastmod>
+         <lastmod>2026-04-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tum-gis.github.io/geoPythonInfoTree/geospatial_libraries/</loc>
-         <lastmod>2024-11-19</lastmod>
+         <lastmod>2026-04-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tum-gis.github.io/geoPythonInfoTree/python_books/</loc>
-         <lastmod>2024-11-19</lastmod>
+         <lastmod>2026-04-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tum-gis.github.io/geoPythonInfoTree/python_editors/</loc>
-         <lastmod>2024-11-19</lastmod>
+         <lastmod>2026-04-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tum-gis.github.io/geoPythonInfoTree/python_gui_libraries/</loc>
-         <lastmod>2024-11-19</lastmod>
+         <lastmod>2026-04-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tum-gis.github.io/geoPythonInfoTree/python_interpreters/</loc>
-         <lastmod>2024-11-19</lastmod>
+         <lastmod>2026-04-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tum-gis.github.io/geoPythonInfoTree/python_online_resources/</loc>
-         <lastmod>2024-11-19</lastmod>
+         <lastmod>2026-04-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tum-gis.github.io/geoPythonInfoTree/python_sdks/</loc>
-         <lastmod>2024-11-19</lastmod>
+         <lastmod>2026-04-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
